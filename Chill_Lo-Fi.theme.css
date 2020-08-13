@@ -1,0 +1,33 @@
+//META{"name":"Chill Lo-Fi","description":"Chill Lo-Fi theme with alot of animation","author":"Zap#2960","version":"1.5","website":"https://discord.gg/8xDAMuj"}*//
+@import url("https://puckzxz.github.io/NotAnotherAnimeTheme/css/scsl.css");
+@import url("https://monstrousdev.github.io/themes/addons/user-tags.css");
+@import url("https://codedotspectra.github.io/themes/core/badges.css");
+@import url('https://gibbu.github.io/BetterDiscord-Themes/RadialStatus/base.css');
+
+:root {
+--background-image: url('https://cdn.discordapp.com/attachments/741765935488040993/743509692998877184/bd.gif');
+--friends-icon: url('https://cdn.discordapp.com/attachments/741765935488040993/743510587207581757/1514589576_dkabwdliuwai.gif');
+--friends-icon-position: center center;
+--friends-icon-zoom: 100%;
+--unread-server-animation: rainbow;
+--main-color: #8000ff;
+--main-transparency: rgba(128,0,255,0.05);
+--hover-list-bg-color: rgba(255, 255, 255, .15);
+--scroll-bar-color: rgba(255,255,255, .15);
+--font-size: 16px;
+--selected-text-voice-color: #0f0d11;
+--channel-hover-text-color: rgba(128,0,255,0.25);
+--unread-text-color: #8000ff;
+--user-popup-background: url('https://cdn.discordapp.com/attachments/741765935488040993/743604159563169862/gif.gif');
+
+--rs-small-spacing: 5px;
+--rs-large-spacing: 3px;
+--rs-width: 2px;
+--rs-avatar-shape: 14%;
+--rs-online-color: #43b581;
+--rs-idle-color: #faa61a;
+--rs-dnd-color: #f04747;
+--rs-streaming-color: #643da7;
+--rs-offline-color: #636b75;
+--rs-invisible-color: #006eff;
+}
