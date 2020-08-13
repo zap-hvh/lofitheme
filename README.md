@@ -1,2 +1,2 @@
 # lofitheme
-My lofi theme (with auto update)
+My lofi theme for better discord with atuo update
