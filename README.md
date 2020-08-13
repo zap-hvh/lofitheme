@@ -1,2 +1,2 @@
 # lofitheme
-My lofi theme (with auto install)
+My lofi theme (with auto update)
